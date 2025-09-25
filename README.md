@@ -48,3 +48,11 @@ This is my **first practice project** I’m uploading to GitHub as I start build
 
 ---
 
+## 📌 Notes
+- This is a **practice project** — the goal here is to flex some EDA skills and show the process, not to deliver polished business recommendations.  
+- Future iterations might include deeper visualizations or experimenting with other datasets.  
+
+---
+
+## 🙋 About Me
+I’m currently working on my **M.S. in Data Science (Dec 2025)** and starting to share projects here on GitHub. Each repo will reflect a step in my growth — from cleaning messy café sales data to building more advanced models.  
