@@ -35,7 +35,7 @@ This is my **first practice project** I’m uploading to GitHub as I start build
    - Correlation checks between numerical features  
 
 3. **Visualizations**  
-   - Bar charts, scatter plots, and histograms  
+   - Bar charts and histograms  
    - A look at how messy raw data can turn into meaningful patterns  
 
 ---
